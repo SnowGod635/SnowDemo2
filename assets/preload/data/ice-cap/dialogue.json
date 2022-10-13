@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Wow! You are really good at singing! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep skee bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Thanks! I learned how to sing with my brother when i was younger"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "sup",
+			"text": "I'm kinda rusty because it has been quite a long time we don't see each other"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Meet him? I afraid that can't happen little one, I don't see him since a long time ago and he's very hot-tempered"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "gfneve",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "Is your girlfriend ok?"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "gfneve",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "O-ok then..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "sup",
+			"text": "One more round?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Ok!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Ready yourself because I'm not going to go easy on you this time!"
+		}
+	]
+}

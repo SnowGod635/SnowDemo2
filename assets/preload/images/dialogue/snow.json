@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		20
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "snow sup0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "snow sup0000",
+			"anim": "sup",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "snow huh0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "snow huh0000",
+			"anim": "huh",
+			"loop_offsets": [
+				-1,
+				2
+			]
+		},
+		{
+			"loop_name": "snow epic0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "snow epic0000",
+			"anim": "epic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "snow"
+}

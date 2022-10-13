@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "Oh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "epic",
+			"text": "Hello blue haired kid, how did you get here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "W-wait, a rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "sup",
+			"text": "Well, only one couldn't do any harm, right?"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "gfneve",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		}
+	]
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="erik gf.png"><SubTexture name="erik gf animation hand0000" x="0" y="0" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0001" x="474" y="0" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0002" x="948" y="0" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0003" x="0" y="424" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0004" x="474" y="424" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0005" x="948" y="424" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0006" x="0" y="848" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0007" x="474" y="848" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0008" x="948" y="848" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0009" x="0" y="1272" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0010" x="474" y="1272" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0011" x="948" y="1272" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+<SubTexture name="erik gf animation hand0012" x="0" y="1696" width="474" height="424" frameX="0" frameY="0" frameWidth="474" frameHeight="424" />
+</TextureAtlas>
